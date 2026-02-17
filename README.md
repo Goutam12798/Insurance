@@ -152,27 +152,20 @@ Published report to Power BI Service
 Step 10: Scheduled Refresh
 
 Configured Gateway
-
 Enabled daily refresh
-
 Ensured real-time business reporting
 
 Step 11: Drill-Through Filter
 
 Implemented drill-through from:
-
 Policy Summary → Individual Policy Details
-
 Region → Customer Level Analysis
 
 Step 12: Row Level Security (RLS)
 
 Created roles in Power BI Desktop
-
 Applied region-based filtering
-
 Tested RLS in Power BI Service
-
 Ensured restricted access for different managers
 
 Step 13: Dashboard Creation
@@ -180,30 +173,23 @@ Step 13: Dashboard Creation
 Created:
 
 Executive Summary Dashboard
-
 Claims Analysis Dashboard
-
 Customer Segmentation Dashboard
 
 💬 Sentiment Analysis (Customer Feedback)
+
 Step 14: Sentiment Analysis in Power Query
 
 Performed basic sentiment analysis using Power Query:
-
 Created conditional column:
-
 If feedback contains positive words → “Positive”
-
 Negative keywords → “Negative”
-
 Otherwise → “Neutral”
 
 Categorized customer reviews into:
 
 Positive
-
 Neutral
-
 Negative
 
 Step 15: Sentiment Visualizations
@@ -211,66 +197,46 @@ Step 15: Sentiment Visualizations
 Added:
 
 Donut chart for Sentiment Distribution
-
 Bar chart for Sentiment by Policy Type
-
 Line chart for Sentiment Trend
-
 KPI Card for % Positive Feedback
 
 📊 Insights
+
 1️⃣ Customer & Policy Insights
 
 Majority of customers belong to the mid-age working group
-
 Most policies are concentrated in specific regions
-
 High number of policies are Active
-
 Certain policy types generate maximum premium revenue
 
 2️⃣ Claim Analysis Insights
 
 Claim ratio highlights high-risk categories
-
 Some regions show higher claim frequency
-
 Certain policy types have high claim-to-premium ratio
-
 Monthly trend shows seasonal spike in claims
 
 3️⃣ Revenue Insights
 
 Total Premium collected is significantly higher than claim payout
-
 Business sustainability depends on maintaining healthy claim ratio
-
 Returning customers contribute major revenue share
 
 4️⃣ Sentiment Analysis Insights
 
 Majority of feedback is Positive
-
 Negative feedback is concentrated in:
-
 Claim processing time
-
 Customer support delays
-
 Positive feedback highlights:
-
 Easy policy purchase
-
 Smooth renewal process
 
 🎯 Business Recommendations
 
 Improve claim settlement speed
-
 Focus on high-risk policy monitoring
-
 Introduce retention programs for dissatisfied customers
-
 Improve customer service for negative sentiment regions
-
 Monitor sentiment trend monthly
